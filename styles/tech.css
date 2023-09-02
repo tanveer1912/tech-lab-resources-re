@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+.banner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 500px;
+    background-color: rgb(248, 234, 217);
+}
+
+.banner-text {
+    font-weight: bold;
+}
+
+.banner-header-text {
+    font-size: 40px;
+    padding: 13px 0;
+}
+
+.banner-header-text span {
+    color: orange;
+}
+
+.gadgets-lovers {
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+
+.btn-primary {
+    margin-top: 30px;
+    border-radius: 5px;
+    padding: 20px 20px;
+    background-image: linear-gradient(to right, red, orange);
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn-primary a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+
+}
