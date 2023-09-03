@@ -123,3 +123,32 @@
 .laptop h4 {
     padding-bottom: 10px;
 }
+
+/* Updates styles */
+
+.updates-container {
+    margin: 50px 100px;
+}
+
+.submit {
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgb(243, 229, 211);
+    height: 130px;
+    padding-top: 100px;
+    border-radius: 5px;
+}
+
+.submit input {
+    padding: 10px 0 10px 5px;
+    font-size: 18px;
+}
+
+.submit button {
+    padding: 10px 15px;
+    font-size: 18px;
+    background-image: linear-gradient(to right, red, orange);
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+}
